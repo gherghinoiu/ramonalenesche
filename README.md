@@ -1,6 +1,6 @@
-# Ramona Leneșche - Consilier Juridic
+# Ramona Lenesche - Consilier Juridic
 
-Website oficial de prezentare și consultanță juridică pentru **Ramona Leneșche - Consilier Juridic** (Iași, România).
+Website oficial de prezentare și consultanță juridică pentru **Ramona Lenesche - Consilier Juridic** (Iași, România).
 
 - **Domeniu personalizat:** [ramonalenesche.ro](https://ramonalenesche.ro)
 - **Localizare birou:** Strada Anastasie Panu 36, Bl. 1B, 700020 Mezanin, Iași

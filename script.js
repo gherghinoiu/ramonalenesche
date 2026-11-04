@@ -1,5 +1,5 @@
 /**
- * Ramona Leneșche - Consilier Juridic
+ * Ramona Lenesche - Consilier Juridic
  * Client-Side Interactivity & Form Handling
  */
 
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const message = document.getElementById('clientMessage')?.value.trim() || '';
 
       const text = encodeURIComponent(
-        `Bună ziua, doamna Ramona Leneșche!\n` +
+        `Bună ziua, doamna Ramona Lenesche!\n` +
         `Mă numesc ${name} (Tel: ${phone}).\n` +
         `Doresc informații privind: ${service}.\n` +
         (message ? `Detalii: ${message}` : '')
