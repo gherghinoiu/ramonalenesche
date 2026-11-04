@@ -18,8 +18,8 @@ Website oficial de prezentare și consultanță juridică pentru **Ramona Lenesc
    - Reprezentare și depunere dosar ORC, achitare taxe Monitorul Oficial;
    - Ridicare certificate de înregistrare și consultanță post-înființare.
 
-2. **Proiecte Finanțate & Granturi (Experiență Proiect POCU IUS SMART):**
-   - Asistență juridică pentru 21 de beneficiari ai proiectului *„Educație juridică și antreprenorială - cheia succesului în afaceri (IUS SMART) - POCU 829/6/13/140103”*;
+2. **Proiecte Finanțate & Granturi:**
+   - Asistență juridică pentru beneficiarii de finanțare europeană și granturi, în vederea dobândirii personalității juridice;
    - Conformitate deplină cu cerințele ghidului solicitantului și planul de afaceri aprobat.
 
 3. **Mențiuni & Modificări Statutare la Registrul Comerțului:**
