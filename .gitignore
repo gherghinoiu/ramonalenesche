@@ -1,0 +1,7 @@
+# Documente interne de proiect - a nu se publica pe GitHub
+INSTRUCTIUNI_PROIECT.md
+detalii initiale.txt
+
+# Fisiere temporare / secrete
+*.token
+cf_token.txt
